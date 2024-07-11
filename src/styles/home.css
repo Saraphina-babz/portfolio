@@ -13,14 +13,12 @@
 .myPic{
 position: absolute;
 z-index: -1;
+transform: scaleX(-1);
 
-
-top: -4rem;
+top: -3rem;
 right: 0;
 object-fit: cover;
 border-radius: 5rem;
-
-
 height: 100vh;
 }
 

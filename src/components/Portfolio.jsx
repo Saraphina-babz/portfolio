@@ -22,8 +22,8 @@ function Portfolio() {
         <div className="ecomm">
         <img src={Ecomm} alt="image" className="projectImage" />
         <div className="ecommButton">
-        <Link to="https://e-commerce-website-lyart.vercel.app/"><button>Demo</button></Link>
-        <Link to="https://github.com/saraphina1/E-commerce-Website"><button>Code</button></Link></div>
+        <Link to="https://ecommerce-kappa-three-23.vercel.app/"><button>Demo</button></Link>
+        <Link to="https://github.com/Saraphina-babz/ecommerce"><button>Code</button></Link></div>
         <p>Ecommerce Website <br/> HTML, CSS, REACT, VITE</p>
         
         </div>
@@ -31,8 +31,8 @@ function Portfolio() {
         <div className="ecomm">
         <img src={interactive_comment} alt="image" className="projectImage" />
         <div className="ecommButton">
-        <Link to="https://interactive-comment-sage.vercel.app/"><button>Demo</button></Link>
-        <Link to="https://github.com/saraphina1/interactive-comment"><button>Code</button></Link></div>
+        <Link to="https://interactive-comment-topaz.vercel.app/"><button>Demo</button></Link>
+        <Link to="https://github.com/Saraphina-babz/interactiveComment"><button>Code</button></Link></div>
         <p>Interactive Comment <br/> HTML, CSS, REACT</p>
         
         </div>
@@ -49,8 +49,8 @@ function Portfolio() {
         <div className="ecomm">
         <img src={dnd} alt="image" className="projectImage" />
         <div className="ecommButton">
-        <Link to="https://drag-n-drop-app2.vercel.app/"><button>Demo</button></Link>
-        <Link to="https://github.com/saraphina1/drag-n-drop-app"><button>Code</button></Link></div>
+        <Link to="https://dragndrop-flame.vercel.app/"><button>Demo</button></Link>
+        <Link to="https://github.com/Saraphina-babz/dragndrop"><button>Code</button></Link></div>
         <p>Drag and Drop App <br/> HTML, CSS, BOOTSTRAP & REACT</p>
         
         </div>
